@@ -27,8 +27,14 @@
 * [Islandora Security Interest Group Wiki](https://github.com/Islandora/Islandora-Security-Interest-Group/wiki)
 
 ## Membership
-
-* [Dan Aitken](#) (Discovery Garden)
+* [Don Richards](https://github.com/DonRichards) (University of Tennessee)
+* [Dan Aitken](https://github.com/qadan) (Discovery Garden)
 * [Will Panting](#) (Discovery Garden)
 * [Jordan Dukart](#) (Discovery Garden)
 * [Marcus barnes](#) (Simon Fraser University)
+* [Anonymous Panda](#) ()
+* [William Panting](#) ()
+* [Rosie Le Faive](https://github.com/rosiel) (UPEI)
+* [Marcus Barnes](https://github.com/MarcusBarnes) (Simon Fraser University)
+* [Ed Fugikawa](#) (University of Wyoming)
+* [Cricket Deane](https://github.com/cdeaneGit) (University of Tennessee)
