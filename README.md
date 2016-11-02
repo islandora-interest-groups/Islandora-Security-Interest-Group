@@ -14,14 +14,13 @@
 * The name of the IIG is the
   * **Islandora Security Interest Group (ISIG)**?
 * The purpose of the Islandora Security Interest Group is
-  * ?
+  * Provide guidance to security mindful people setting up or maintaining and Islandora server.
 * Specific goals, activities, outcomes include:
-  * ?
+  * To provide guidance, resources, links to training, links to toolkits and a open forum to discuss security concerns.
 * The interest group will meet once a month virtually (eg. via Skype).
   * A call for agenda items will be posted to the Islandora Google Group 1 week prior to the meeting?
   * The convenor will appoint a note taker for the meeting and meeting notes will be made available at some url?
 * The convenors will produce a report to be submitted to the Islandora Roadmap Committee following the ISIG’s meeting.
-* Emergency Response Meetings?
 
 ## Links
 * [Islandora Security Interest Group Wiki](https://github.com/Islandora/Islandora-Security-Interest-Group/wiki)
