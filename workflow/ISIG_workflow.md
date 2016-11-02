@@ -7,6 +7,8 @@
 * Discuss Agenda Items
 * Open discussion
 * Recap who is going to be chair for the next meeting's date and doesn't land on a holiday. First Wednesday of the month.
+* Email ISIG notes to Security@islandora.ca
+* Submit Pull Request of updated meeting notes
 
 ### Suggest a Topic
 * Post in [Google Groups](https://groups.google.com/forum/#!forum/islandora)
@@ -15,7 +17,7 @@
 * [Create an issue](https://github.com/islandora-interest-groups/Islandora-Security-Interest-Group/issues)
 
 ### Submit a Security Document
-* You don't need to ask. Submit a Pull Request with a markdown file to the "security_docs" folder. 
+* You don't need to ask. Submit a Pull Request with a markdown file to the "security_docs" folder.
 ** Please use [Snake Case](https://en.wikipedia.org/wiki/Snake_case) naming convention for the markdown file.
 * Please note that the steps were tested in [Islandora Vagrant](https://github.com/Islandora-Labs/islandora_vagrant/) before pushing a Pull Request unless impractical.
 

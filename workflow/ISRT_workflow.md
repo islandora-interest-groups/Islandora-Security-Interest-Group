@@ -21,3 +21,6 @@
 12. A final report will be sent to ISIG and a representative of the Islandora foundation
 
 * Note: The only communication required to be public is the Duraspace ticket after fix is accepted and will be done by a representative of the Islandora foundation
+
+## Occasionally an email will be sent to ISRT to determine which members wish to continue to be on the response team.
+The is a set time to respond, otherwise it is assumed the member is no longer interested in volunteering for the ISRT responsibility.
