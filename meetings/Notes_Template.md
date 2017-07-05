@@ -16,10 +16,5 @@ https://join.skype.com/uohKGgCNMBSG<br/>
 
 ## Next meeting
 
-## Attendees
-* This Person (chair) 
-* This Other Person (note taker)
-* Yet another pseron
-
 ## Notes
 * The group went over the 
