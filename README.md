@@ -17,6 +17,8 @@
   * Provide guidance to security mindful people setting up or maintaining and Islandora server.
 * Specific goals, activities, outcomes include:
   * To provide guidance, resources, links to training, links to toolkits and a open forum to discuss security concerns.
+  * Code review, a coding security topic is picked and some code is selected for discussion.
+  * Open discussion is always welcome.
 * The interest group will meet once a month virtually (eg. via Skype).
   * A call for agenda items will be posted to the Islandora Google Group 1 week prior to the meeting?
   * The convenor will appoint a note taker for the meeting and meeting notes will be made available at some url?
