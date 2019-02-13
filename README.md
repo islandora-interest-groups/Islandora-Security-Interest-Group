@@ -9,6 +9,7 @@
 ## How to participate
   * [Zoom](https://zoom.us/j/350991125)
   * Meets 2nd Wednesday of the month.
+    * [Current Agenda](https://drive.google.com/drive/folders/1UqXkN3H5yb19k3geFSHJEkRtrJ87gD3I?usp=sharing)
 
 ## Terms of Reference
 
