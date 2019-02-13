@@ -7,7 +7,8 @@
 * [2nd Person](#) (Signup Please)
 
 ## How to participate
-  * [Join Skype Group](https://join.skype.com/uohKGgCNMBSG)
+  * [Zoom](https://zoom.us/j/350991125)
+  * Meets 2nd Wednesday of the month.
 
 ## Terms of Reference
 
