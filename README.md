@@ -35,7 +35,6 @@
 * [Will Panting](https://github.com/willtp87) (Discovery Garden)
 * [Jordan Dukart](https://github.com/jordandukart) (Discovery Garden)
 * [Marcus barnes](#) (Simon Fraser University)
-* [Anonymous Panda](#) ()
 * [Rosie Le Faive](https://github.com/rosiel) (UPEI)
 * [Marcus Barnes](https://github.com/MarcusBarnes) (Simon Fraser University)
 * [Ed Fugikawa](#) (University of Wyoming)
